@@ -3,7 +3,7 @@
 **OBJECT RECOGNITION:**
 - Object Recognition is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class in digital images and videos. It has applications in many areas of computer vision, including image retrieval and video surveillance.
 
-**LIBRARIS AND DEPENDENCIES:**
+**LIBRARIES AND DEPENDENCIES:**
 - I have listed all the necessary libraries and dependencies required for this project here:
 
 ```javascript
