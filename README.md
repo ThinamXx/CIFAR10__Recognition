@@ -25,9 +25,9 @@ from d2l import torch as d2l
 **IMAGE AUGMENTATION:**
 - I will use image augmentation to cope with overfitting. The images are flipped at random and normalized. I have presented the implementation of Obtaining and Organizing the Dataset, Image Augmentation and Normalization using PyTorch here in the Snapshot. 
 
-[Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20158.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20158.PNG)
 
 **DEFINING THE MODEL:**
 - I will define ResNet18 model. I will perform xavier random initialization on the model before training begins. I will define model training function train here. I will record the training time of each epoch which helps to compare costs of different models. I have presented the implementation Defining a Training Function using PyTorch here in the Snapshot. 
 
-[Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20159.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20159.PNG)
