@@ -6,7 +6,7 @@
 **LIBRARIES AND DEPENDENCIES:**
 - I have listed all the necessary libraries and dependencies required for this project here:
 
-```javascript
+```python
 import os, collections, math
 import shutil
 import pandas as pd
